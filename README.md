@@ -1,2 +1,2 @@
-# my-qa-app
-This Is my QA App project
+# About my QA Learning App ↓
+This application has 6 lessons with some quizes that help and Improve your knowledge at Quality Assurance
